@@ -73,9 +73,12 @@ const config: Config = {
 			style: "light",
 			copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
 		},
+		colorMode: {
+			defaultMode: "dark",
+		},
 		prism: {
 			theme: prismThemes.github,
-			darkTheme: prismThemes.dracula,
+			darkTheme: prismThemes.github,
 		},
 	} satisfies Preset.ThemeConfig,
 };
