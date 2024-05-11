@@ -7,7 +7,6 @@ const config: Config = {
 	tagline: "An alternative for VFX creation",
 	favicon: "img/favicon.ico",
 
-	// Set the production url of your site here
 	url: "https://your-docusaurus-site.example.com",
 	baseUrl: "/LuminaDocs/",
 
@@ -31,7 +30,7 @@ const config: Config = {
 			{
 				docs: {
 					sidebarPath: "./sidebars.ts",
-					editUrl: "https://github.com/Mqxsyy/Lumina/docs",
+					editUrl: "https://github.com/Mqxsyy/LuminaDocs/blob/main",
 				},
 				theme: {
 					customCss: "./src/css/custom.css",
