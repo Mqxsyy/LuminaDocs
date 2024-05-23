@@ -1,6 +1,6 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import type { Config } from "@docusaurus/types";
+import { themes as prismThemes } from "prism-react-renderer";
 
 const config: Config = {
   title: "Lumina",
@@ -67,6 +67,16 @@ const config: Config = {
           sidebarId: "plannedFeaturesSidebar",
           position: "left",
           label: "Planned Features",
+        },
+        {
+          href: "https://trello.com/b/HdIHbE2Q/main",
+          label: "Trello",
+          position: "right",
+        },
+        {
+          href: "https://discord.gg/8sdgryhR",
+          label: "Discord",
+          position: "right",
         },
         {
           href: "https://github.com/Mqxsyy/Lumina",
