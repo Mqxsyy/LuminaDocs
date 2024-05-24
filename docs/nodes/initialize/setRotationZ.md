@@ -4,7 +4,7 @@
 
 ---
 
-Sets the rotation of the particle.
+Sets the rotation of the particle only on the Z axis. Useful for 'Plane' particles, where other axes are ignored.
 
 ## Fields
 

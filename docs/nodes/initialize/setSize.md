@@ -4,7 +4,7 @@
 
 ---
 
-How big the particle should be.
+How big the particle should be. All axes are equal.
 
 ## Fields
 

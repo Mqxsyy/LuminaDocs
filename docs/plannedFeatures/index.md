@@ -1,5 +1,9 @@
 # Planned Features
 
+:::info
+Trello has a more detailed but less descriptive list of possible upcoming features.
+:::
+
 :::warning
 This is NOT a definitive list, just an overview and everything is subject to change.
 :::

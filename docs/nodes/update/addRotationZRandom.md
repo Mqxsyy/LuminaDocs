@@ -4,7 +4,7 @@
 
 ---
 
-Adds a random amount to the particle's Z rotation every frame. This random amount is randomized **ONLY ONCE**.
+Adds a random amount to the particle's Z rotation every frame. Randomizes the value once per particle.
 
 ## Fields
 

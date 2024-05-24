@@ -10,14 +10,6 @@ Sets the **world position** of where to spawn the particle.
 
 ---
 
-### X
+### Position
 
-The position on the X axis.
-
-### Y
-
-The position on the Y axis.
-
-### Z
-
-The position on the Z axis.
+Defines the location of where to spawn the particle.

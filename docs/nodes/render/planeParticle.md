@@ -1,4 +1,4 @@
-# Particle Plane
+# Plane Particle
 
 ## Details
 
@@ -38,17 +38,14 @@ If the image should be displayed on both sides.
 
 If a spritesheet is not used then you can set rows, columns and frames to 1.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Width**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; What the width of the spritesheet should be.
-
-&nbsp;&nbsp;&nbsp;&nbsp; **Height**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; What the height of the spritesheet should be.
+&nbsp;&nbsp;&nbsp;&nbsp; **Size**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; What the total size of the spritesheet in pixels is.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Rows**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; How many rows a spritesheet has.
+&nbsp;&nbsp;&nbsp;&nbsp; How many rows the spritesheet has.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Columns**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; How many columns a spritesheet has.
+&nbsp;&nbsp;&nbsp;&nbsp; How many columns the spritesheet has.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Frames**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; How many frames a spritesheet has.
+&nbsp;&nbsp;&nbsp;&nbsp; How many frames the spritesheet has.
