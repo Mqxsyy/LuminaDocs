@@ -12,4 +12,6 @@ Nodes are put into 5 groups, where each group has it's own purpose.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Logic Group** contains nodes that utilize connections and don’t go inside the systems.
 
+&nbsp;&nbsp;&nbsp;&nbsp; There is also a hidden **Mixed Group**, which have the combined functionality of Initialize and Update groups. 
+
 _Sidenote: I would hope that the nodes themselves have self explanatory names and fields._

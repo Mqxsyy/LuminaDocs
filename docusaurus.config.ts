@@ -63,12 +63,6 @@ const config: Config = {
           label: "Nodes",
         },
         {
-          type: "docSidebar",
-          sidebarId: "plannedFeaturesSidebar",
-          position: "left",
-          label: "Planned Features",
-        },
-        {
           href: "https://trello.com/b/HdIHbE2Q/main",
           label: "Trello",
           position: "right",
@@ -87,7 +81,7 @@ const config: Config = {
     },
     footer: {
       style: "light",
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Lumina, Inc. Built with Docusaurus.`,
     },
     colorMode: {
       defaultMode: "dark",

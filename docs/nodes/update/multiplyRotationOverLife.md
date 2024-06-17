@@ -1,18 +1,10 @@
-# Multiply Size Over Life
+# Multiply Rotation Over Life
 
 ## Details
 
 ---
 
 Changes the particle's size over it's lifetime.
-
-## Types
-
----
-
-### CalculationType
-
-How to calculate the size.
 
 ## Fields
 
